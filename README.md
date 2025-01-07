@@ -1,2 +1,3 @@
 # git-demo
-# this is for demo purpose
+# This is for demo purposes
+# Has no access
